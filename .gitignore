@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Any ROMs left in project folder (very important)
+*.nds
+
 # User-specific files
 *.rsuser
 *.suo
@@ -363,3 +366,4 @@ MigrationBackup/
 FodyWeavers.xsd
 /infiniteTMs.zip
 /ndstool.exe
+/test_rom_DSPRE_contents
